@@ -1,6 +1,8 @@
 # toptal-movie-recommender
-webservice app for recommending movies
 
+webservice app for recommending movies based on movie history
+
+example usage python app.py --port 5000
 
 ************************************************************************************
 
